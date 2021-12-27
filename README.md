@@ -19,6 +19,7 @@
 
 ```-T3,T4,T5```: Speed Up Ping Scanning and can be Used with other nmap features. 
 
+```--dns-servers DNS_SERVER``` : used to query dns server.
 
 1 - Host Discovery
 
