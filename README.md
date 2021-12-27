@@ -21,6 +21,7 @@
 
 
 ```-PS<Port numbers>``` : TCP SYN PING : using the syn flag to ping a specific Port .
+
 ![Screenshot from 2021-12-27 10-29-37](https://user-images.githubusercontent.com/92652606/147463171-2be81fea-3c21-4324-afa0-32629a26fd92.png)
 
 ```-PA<port numbers>```: TCP ACK PING 
