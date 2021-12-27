@@ -16,3 +16,5 @@
 ```---packet-trace``` : More Details about packets ( ttl , flags ,.. )
 
 ```-6 ```: scan ipv6 Version 
+
+```-T3,T4,T5```: Speed Up Ping Scanning and can be Used with other nmap features. 
