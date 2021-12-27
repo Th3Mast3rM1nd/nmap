@@ -1,7 +1,5 @@
-# nmap
 
-
-* ***Host Discovery ( Ping Scanning )***
+# Host Discovery ( Ping Scanning )
 
 ```-iL```: read input from a file 
 
