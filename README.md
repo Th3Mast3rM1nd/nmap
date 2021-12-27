@@ -17,7 +17,7 @@
 
 ```-PN``` : disable Ping ( USEFULL when you know ur target is up or against Firewalls )
 
-```-PS<Port numbers>`` : TCP SYN PING : using the syn flag to ping a specific Port .
+```-PS<Port numbers>``` : TCP SYN PING : using the syn flag to ping a specific Port .
 
 ```-PA<port numbers>```: TCP ACK PING 
   
