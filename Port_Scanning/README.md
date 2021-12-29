@@ -33,6 +33,7 @@ nmap -PN -v -p0- -T4 192.168.1.0/24 # -p0- same as -p0-65535 , T4 to speed up th
 
 ```
 
+<img width="612" alt="Screen Shot 2021-12-29 at 12 28 08" src="https://user-images.githubusercontent.com/92652606/147657705-66e494a7-5e67-4e4e-89dc-834c03bea2e2.png">
 
 
 
