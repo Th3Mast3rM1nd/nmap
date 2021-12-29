@@ -5,6 +5,8 @@
 
 ```-v``` : Verbose mode 
 
+```-d``` : debug mode 
+
 ```-n``` : disables all Dns Resolution
 
 ```-R``` : enables DNS queries for all hosts
