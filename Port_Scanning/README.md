@@ -22,6 +22,7 @@ nmap -PN -v -p0- -T4 192.168.1.0/24 # -p0- same as -p0-65535 , T4 to speed up th
 -sX # TCP Xmas 
 -sN # TCP Null 
 -sO # IP protocol scan , used to find out which ip protocol the target are suportted ( tcp , udp , icmp , igmp )
+--scanflags SYNFIN # scan for open ports using syn and fin flags
 
 ```
 
@@ -30,6 +31,7 @@ nmap -PN -v -p0- -T4 192.168.1.0/24 # -p0- same as -p0-65535 , T4 to speed up th
 -p ssh # scan just ssh port ( 22)
 -p80-1000 # scan range ports
 -pT:22,23,U:53 # scan tcp port 22,23 and udp port 53 
+-F # scan most common Ports 
 
 ```
 
@@ -39,7 +41,7 @@ nmap -PN -v -p0- -T4 192.168.1.0/24 # -p0- same as -p0-65535 , T4 to speed up th
 
 
 
-
+ 
 
 
 
