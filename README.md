@@ -23,6 +23,8 @@
 
 ```--dns-servers DNS_SERVER``` : used to query dns server.
 
+```min
+
 1 - Host Discovery
 
 2 - Port Scanning 
