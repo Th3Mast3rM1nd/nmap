@@ -23,17 +23,5 @@
 
 ```--dns-servers DNS_SERVER``` : used to query dns server.
 
-```min
-
-1 - Host Discovery
-
-2 - Port Scanning 
-
-3- Services and Apps Version Detection 
-
-4- OS Detection
-
-5- Scripts Engine 
-
-6- Firewalls and IDS
+```--disable-arp-ping``` 
 
